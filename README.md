@@ -1,7 +1,6 @@
 # providerapp
 
-A new Flutter project.
-
+A bottom navigation bar with Provider State Manegement 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
